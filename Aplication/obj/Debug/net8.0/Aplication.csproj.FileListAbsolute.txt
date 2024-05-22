@@ -1,0 +1,11 @@
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\bin\Debug\net8.0\Aplication.deps.json
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\bin\Debug\net8.0\Aplication.dll
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\bin\Debug\net8.0\Aplication.pdb
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\Aplication.dll
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\Aplication.pdb
+E:\Pruebas\SyspotecFullStack\SyspotecBackend\Aplication\obj\Debug\net8.0\ref\Aplication.dll

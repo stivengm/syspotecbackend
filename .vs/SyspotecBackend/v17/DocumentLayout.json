@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A844F612-317D-40EE-B257-39F288153DFF}|Data\\Data.csproj|e:\\pruebas\\syspotecfullstack\\syspotecbackend\\data\\repositories\\contractsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844F612-317D-40EE-B257-39F288153DFF}|Data\\Data.csproj|solutionrelative:data\\repositories\\contractsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D77A0E3-DD2E-4898-B4EB-0A49A87FF5EC}|SyspotecBackend\\Api.csproj|e:\\pruebas\\syspotecfullstack\\syspotecbackend\\syspotecbackend\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D77A0E3-DD2E-4898-B4EB-0A49A87FF5EC}|SyspotecBackend\\Api.csproj|solutionrelative:syspotecbackend\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCF4343-D11D-4F05-AB21-B810B046C418}|Domain\\Domain.csproj|e:\\pruebas\\syspotecfullstack\\syspotecbackend\\domain\\irepositories\\icontractsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCF4343-D11D-4F05-AB21-B810B046C418}|Domain\\Domain.csproj|solutionrelative:domain\\irepositories\\icontractsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9B97-1A11-42D3-88DA-1EC14088A6BB}|Application\\Application.csproj|e:\\pruebas\\syspotecfullstack\\syspotecbackend\\application\\services\\contractsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9B97-1A11-42D3-88DA-1EC14088A6BB}|Application\\Application.csproj|solutionrelative:application\\services\\contractsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DCF4343-D11D-4F05-AB21-B810B046C418}|Domain\\Domain.csproj|e:\\pruebas\\syspotecfullstack\\syspotecbackend\\domain\\iservices\\icontractsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCF4343-D11D-4F05-AB21-B810B046C418}|Domain\\Domain.csproj|solutionrelative:domain\\iservices\\icontractsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContractsRepository.cs",
+              "DocumentMoniker": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Domain\\IRepositories\\IContractsRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\IRepositories\\IContractsRepository.cs",
+              "ToolTip": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Domain\\IRepositories\\IContractsRepository.cs",
+              "RelativeToolTip": "Domain\\IRepositories\\IContractsRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAvwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:46:42.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractsService.cs",
+              "DocumentMoniker": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Application\\Services\\ContractsService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ContractsService.cs",
+              "ToolTip": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Application\\Services\\ContractsService.cs",
+              "RelativeToolTip": "Application\\Services\\ContractsService.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAD4v48AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:46:34.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContractsService.cs",
+              "DocumentMoniker": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Domain\\IServices\\IContractsService.cs",
+              "RelativeDocumentMoniker": "Domain\\IServices\\IContractsService.cs",
+              "ToolTip": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Domain\\IServices\\IContractsService.cs",
+              "RelativeToolTip": "Domain\\IServices\\IContractsService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA3wBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:46:29.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractsRepository.cs",
+              "DocumentMoniker": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Data\\Repositories\\ContractsRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ContractsRepository.cs",
+              "ToolTip": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\Data\\Repositories\\ContractsRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ContractsRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwEsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:29:08.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\SyspotecBackend\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "SyspotecBackend\\Controllers\\ContractController.cs",
+              "ToolTip": "E:\\Pruebas\\SyspotecFullStack\\SyspotecBackend\\SyspotecBackend\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "SyspotecBackend\\Controllers\\ContractController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:28:44.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

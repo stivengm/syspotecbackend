@@ -1,0 +1,6 @@
+@SyspotecBackend_HostAddress = http://localhost:5235
+
+GET {{SyspotecBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
